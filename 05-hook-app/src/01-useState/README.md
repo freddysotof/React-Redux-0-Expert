@@ -1,0 +1,1 @@
+# Mantener el estatus de un objeto
