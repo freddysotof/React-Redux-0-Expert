@@ -1,5 +1,5 @@
 {
-  "name": "journal-app",
+  "name": "toolkit-redux",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,17 +9,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@emotion/react": "^11.10.5",
-    "@emotion/styled": "^11.10.5",
-    "@mui/icons-material": "^5.11.0",
-    "@mui/material": "^5.11.0",
     "@reduxjs/toolkit": "^1.9.1",
     "axios": "^1.2.1",
-    "firebase": "^9.15.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-redux": "^8.0.5",
-    "react-router-dom": "^6.4.5"
+    "react-redux": "^8.0.5"
   },
   "devDependencies": {
     "@types/react": "^18.0.26",
